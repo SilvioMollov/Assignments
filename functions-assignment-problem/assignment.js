@@ -32,5 +32,5 @@ checkInput(() => {
 },
 'asdad',
 'asdasddd',
-''
+'asdasd'
 );
